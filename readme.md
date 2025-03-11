@@ -2,6 +2,9 @@
 
 Suma is an innovative application designed to transform your handwritten notes into digital format, summarize content, and convert text to speech for an enhanced learning experience.
 
+![image](https://github.com/user-attachments/assets/e64e6548-1bfa-4f87-8ca9-3b75038757d8)
+
+
 ## 🌟 Features
 
 ### 📝 Digital Note Conversion
@@ -93,3 +96,7 @@ Suma is an innovative application designed to transform your handwritten notes i
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for the modern UI components
 - [Sumy](https://github.com/miso-belica/sumy) for text summarization
 - [HuggingFace Transformers](https://github.com/huggingface/transformers) for advanced AI models
+
+---
+
+***Note:** This project is a prototype developed as my fourth-year project and is under active development.*
