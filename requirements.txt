@@ -1,0 +1,23 @@
+
+customtkinter
+sumy
+transformers
+torch
+gTTS
+pygame
+selenium
+beautifulsoup4
+
+
+### Explanation
+
+# - **customtkinter** – For the custom Tkinter UI components.
+# - **sumy** – Used for the LSA-based text summarization.
+# - **transformers** – For the advanced BART summarization.
+# - **torch** – Required by the transformers library for model operations.
+# - **gTTS** – To generate audio from text.
+# - **pygame** – Used for playing the generated audio.
+# - **selenium** – To automate browser tasks (e.g., for OCR via web scraping).
+# - **beautifulsoup4** – For parsing HTML when processing files.
+
+# This should cover the dependencies based on the current functionality of your prototype.
